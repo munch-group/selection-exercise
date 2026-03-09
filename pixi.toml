@@ -18,6 +18,7 @@ pyarrow = ">=23.0.1,<24"
 ipympl = ">=0.10.0,<0.11"
 qt = ">=5.15.15,<6"
 tk = ">=8.6.13,<9"
+multiprocess = ">=0.70.19,<0.71"
 
 [pypi-dependencies]
 pyqt5 = "*"
